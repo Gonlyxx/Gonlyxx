@@ -49,8 +49,6 @@ https://www.roblox.com/games/117510007862470/Opera-o-1921-O-Legado-de-Barcelinho
 
 A **Counter-Strike 2 AWP server network** built as a complete server ecosystem.
 
-The project includes:
-
 * 🖥️ **4 CS2 servers**
 * 🗄️ Shared database
 * 🎯 Custom gameplay systems
@@ -75,14 +73,6 @@ https://github.com/Gonlyxx/cs2-awp-network
 * 🖥️ Building and experimenting with **game servers**
 * 🤖 Exploring **AI-assisted development**
 * 🧠 Learning by building **real projects**
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gonlyxx&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
